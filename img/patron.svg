@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" fill="none" stroke="#93AE8A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- croissant -->
+  <g transform="translate(30 40) rotate(-14)">
+    <path d="M6 34 C2 26 6 14 16 10 C26 6 30 14 36 12 C42 10 46 4 56 6 C66 8 72 18 68 28 C64 36 56 34 50 38 C42 42 30 44 20 42 C12 40 8 38 6 34 Z"/>
+    <path d="M22 13 C24 22 24 32 20 42"/>
+    <path d="M36 12 C38 22 38 32 34 43"/>
+    <path d="M52 8 C52 18 52 28 48 39"/>
+  </g>
+  <!-- taza -->
+  <g transform="translate(220 30)">
+    <path d="M10 30 L14 64 C15 70 20 74 26 74 L50 74 C56 74 61 70 62 64 L66 30 Z"/>
+    <path d="M66 38 C78 36 82 52 64 56"/>
+    <path d="M4 80 L72 80"/>
+    <path d="M28 20 C24 14 32 10 28 4"/>
+    <path d="M42 20 C38 14 46 10 42 4"/>
+  </g>
+  <!-- taza chica -->
+  <g transform="translate(70 220) scale(.75)">
+    <path d="M10 30 L14 64 C15 70 20 74 26 74 L50 74 C56 74 61 70 62 64 L66 30 Z"/>
+    <path d="M66 38 C78 36 82 52 64 56"/>
+    <path d="M36 20 C32 14 40 10 36 4"/>
+  </g>
+  <!-- croissant -->
+  <g transform="translate(230 230) rotate(16) scale(.85)">
+    <path d="M6 34 C2 26 6 14 16 10 C26 6 30 14 36 12 C42 10 46 4 56 6 C66 8 72 18 68 28 C64 36 56 34 50 38 C42 42 30 44 20 42 C12 40 8 38 6 34 Z"/>
+    <path d="M22 13 C24 22 24 32 20 42"/>
+    <path d="M36 12 C38 22 38 32 34 43"/>
+    <path d="M52 8 C52 18 52 28 48 39"/>
+  </g>
+  <!-- granitos de café -->
+  <g transform="translate(160 160) rotate(30)">
+    <ellipse cx="0" cy="0" rx="8" ry="12"/>
+    <path d="M0 -10 C-4 -4 4 4 0 10"/>
+  </g>
+  <g transform="translate(330 170) rotate(-20)">
+    <ellipse cx="0" cy="0" rx="7" ry="10"/>
+    <path d="M0 -8 C-3 -3 3 3 0 8"/>
+  </g>
+</svg>
